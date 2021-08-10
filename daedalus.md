@@ -1,3 +1,5 @@
+# Staking with Daedalus
+
 Delegate ADA in a few quick steps using the official Daedalus wallet.
 
 Daedalus is a full node wallet. This means that it will download a copy of the entire Cardano blockchain to your computer. This ensures that you have a direct connection to the Cardano blockchain network and you won't suffer from third party network issues (although very rare) that might arise from using wallets such as Yoroi when there is high demand.
