@@ -1,17 +1,19 @@
-### Add The Extension
+# Staking with Yoroi
+
+#### Add The Extension
 Click this link [Chrome Extension](https://chrome.google.com/webstore/detail/yoroi/ffnbelfdoeiohenkjibnmadjiehjhajb?hl=en-US) and add the extension to your chrome browser.
 
 ![Add Extension](https://01whimsy-storeage-space.fra1.digitaloceanspaces.com/article_images/yoroi/yoroi_add.png)
 
-### Choose Language
+#### Choose Language
 You will choose a language, here we have chosen English for this example.
 
 ![language](https://01whimsy-storeage-space.fra1.digitaloceanspaces.com/article_images/yoroi/choose_language.png)
 
-### Agree to the Terms of Use
+#### Agree to the Terms of Use
 ![terms of use](https://01whimsy-storeage-space.fra1.digitaloceanspaces.com/article_images/yoroi/agree_to_terms_of_use.png)
 
-### Choose Simple
+#### Choose Simple
 
 ![simple](https://01whimsy-storeage-space.fra1.digitaloceanspaces.com/article_images/yoroi/choose_simple.png)
 
@@ -25,28 +27,28 @@ Choose if you want to use Payment URLs or not. You can come back and enable thes
 
 You are now done with the installation of the Yoroi wallet extension for Chrome and are ready to set up a new wallet to begin delegating to stake ADA on Yoroi.
 
-### Creating Your Wallet
+#### Creating Your Wallet
 
 Assuming that you have now successfully installed the extension to your browser, you can now create a new wallet.
 Click on the "Create wallet" option in the middle.
 
 ![create_wallet](https://01whimsy-storeage-space.fra1.digitaloceanspaces.com/article_images/yoroi/create_new_wallet.png)
 
-#### Choose Cardano
+##### Choose Cardano
 Yoroi is a Cardano Wallet app that is owned by Emurgo which has released its own token on the Cardano block chain. We will be focusing on Cardano wallets as these are the wallets that we can stake to and receive staking rewards with.
 ![coin_choice](https://01whimsy-storeage-space.fra1.digitaloceanspaces.com/article_images/yoroi/choose_cardano.png)
 
-#### Paper Wallet or Regular Wallet?
+##### Paper Wallet or Regular Wallet?
 Yoroi has added a new feature for paper wallets which is geared toward long term cold storage investors.
 
 ![create_wallet](https://01whimsy-storeage-space.fra1.digitaloceanspaces.com/article_images/yoroi/create_wallet_option.png)
 
-### Wallet Name & Password
+#### Wallet Name & Password
 The next window will be the main components of your wallet. Remember this password as it will be the password you use every time that you are to send ADA or when you allow delegation to a node pool.
 
 ![name and pass](https://01whimsy-storeage-space.fra1.digitaloceanspaces.com/article_images/yoroi/name_and_create_passwd.png)
 
-### Agree and Continue to the Recovery Phase Step
+#### Agree and Continue to the Recovery Phase Step
 We won't have screenshots of this step, but make sure to write down your recovery phrase and store it in a very safe place. You would not like to have forgotten your password and have no way to get back the access to your private keys. **THIS IS NOT MAGICAL**
 
 ![recovery phrase](https://01whimsy-storeage-space.fra1.digitaloceanspaces.com/article_images/yoroi/create_recovery_phrase.png)
@@ -62,7 +64,7 @@ At this point, you will need to send ADA to this wallet by clicking on **RECEIVE
 
 ![dashboard](https://01whimsy-storeage-space.fra1.digitaloceanspaces.com/article_images/yoroi/you_will_see_your_dashboard.png)
 
-### Transfer ADA to your Wallet
+#### Transfer ADA to your Wallet
 
 It will give you a wallet address.
 
@@ -74,18 +76,18 @@ After sending your ADA to your new personal wallet your will see it here in your
 
 ![amount received](https://01whimsy-storeage-space.fra1.digitaloceanspaces.com/article_images/yoroi/You_will_receive_ada.png)
 
-### Delegating/Staking to the Whimsy Stake Pool
+#### Delegating/Staking to the Whimsy Stake Pool
 
 In the search bar find us by typing **Ticker:** _WMSY_ and hit the magnifying glass.
 
 ![search](https://01whimsy-storeage-space.fra1.digitaloceanspaces.com/article_images/yoroi/search_whimsy.png)
 
-#### Click on Delegate
+##### Click on Delegate
 Here you can review the pool's performance metrics (photo may be outdated). You will also find the **delegation** button which will take you to the staking review popup once clicked.
 
 ![delegating_wmsy](https://01whimsy-storeage-space.fra1.digitaloceanspaces.com/article_images/yoroi/click_delegate.png)
 
-#### Confirm Delegation
+##### Confirm Delegation
 
 The next screen that will appear will confirm your delegation.
 
