@@ -4,12 +4,6 @@ Delegate ADA in a few quick steps using the official Daedalus wallet.
 
 Daedalus is a full node wallet. This means that it will download a copy of the entire Cardano blockchain to your computer. This ensures that you have a direct connection to the Cardano blockchain network and you won't suffer from third party network issues (although very rare) that might arise from using wallets such as Yoroi when there is high demand.
 
-Staking your ADA to get rewards is the backbone of the Cardano network. The proof of stake protocol allows users to be rewarded in ADA for helping to validate blocks on the network, similar to how Bitcoin and Ethereum validate their networks with mining, rewarding miners in their respective tokens.
-
-The process of staking is easy and has next to no risk in the process.
-
-Users that are holding ADA can simply load a wallet using Daedalus or other popular Cardano wallets such as Yoroi, delegate ADA to a Stake Pool and receive rewards in the process.
-
 Follow these easy steps to get started with delegating your ADA to a Stake Pool.
 
 **Total Time**: 15 minutes
